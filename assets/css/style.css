@@ -1,0 +1,37 @@
+body{
+  background-image:url("../images/sport-1201014_1920.jpg");
+}
+.header{
+  color:black;
+  text-align:center;
+  background-color:transparent;
+}
+.header:hover{
+  color:orangered;
+}
+form{
+  background-color:transparent;
+  border-bottom: 1px solid black;
+  padding:10px,0,10px,7px;
+  margin-bottom:10px;
+}
+#submit, .button-gif{
+  color:black;
+  background-color:transparent;
+  margin:1px;
+  border:1px dotted orangered;
+}
+#submit:hover, .button-gif:hover{
+  color:white;
+  background-color:lightslategray;
+}
+img{
+  margin:2px;
+  border:1px dotted yellow;
+}
+#img1, #img2, #img3, #img4, #img5, #img6, #img7, #img8, #img9, #img10{
+  float:left;
+  text-align:center;
+  color:orangered;
+  font-family:cursive, sans-serif;
+}
